@@ -13,8 +13,7 @@
         "type": "git",
         "url": "https://github.com/Noreldin-S/teck-blog"
     },
-    "author": "Jake Kelly",
-    "license": "MIT",
+
     "dependencies": {
         "bcrypt": "^5.0.0",
         "connect-session-sequelize": "^6.1.1",
